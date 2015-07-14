@@ -1,4 +1,4 @@
 launcher
 ========
 
-PWS Multi Launcher
+World Of Warcarft Privatserver Multi Launcher
